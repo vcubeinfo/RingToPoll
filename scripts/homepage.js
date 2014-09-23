@@ -6,6 +6,17 @@ $(function(){
 		renderBarCharts('.barChartView', response.data);
     });
     
+   	$('.fromDatepicker').datepicker({
+   		//'buttonImage': ''
+   	}).on('change', function(e) {
+		this.value;
+	});
+	$('.toDatepicker').datepicker({
+   		//'buttonImage': ''
+   	}).on('change', function(en) {
+		this.value;
+	});
+    
     $('#tableGrid').dataTable({
     				 "sPaginationType": "full_numbers",
     				 "aoColumns": [

@@ -16,3 +16,15 @@
 .chartRow {
 	border-bottom: 1px solid #CAC8CB;
 }
+
+.calenderRow {
+	padding: 10px 0px;
+}
+
+.toDatepickerHolder, .fromDatepickerHolder {
+	float:right;
+}
+
+.toDatepickerHolder {
+	padding: 0px 10px;
+}
