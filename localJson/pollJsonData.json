@@ -5,12 +5,12 @@
                 {
                     "name": "GOV",
                     "y": 89,
-                    "sliced": false,
-					"color": "#3269AC",
-                    "selected": true
+					"showValue": 89000,
+					"color": "#3269AC"
                 },{
                     "name": "Private",
                     "y": 11,
+					"showValue": 11000,
 					"color": "#B73832"
                 }
             ]
