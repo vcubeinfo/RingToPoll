@@ -1,0 +1,14 @@
+.contentColumn {
+	border: 1px solid;
+}
+
+.logoRow {
+	height: 100px;
+	padding: 20px;
+	border-bottom: 1px solid;
+} 
+
+.chartRow {
+	height: 400px;
+	border-bottom: 1px solid;
+}
