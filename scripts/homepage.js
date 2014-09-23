@@ -7,8 +7,7 @@ $(function(){
     });
     
     $('#tableGrid').dataTable({
-    				"paging": true,
-    	             "pagingType": "full_numbers", 
+    				 "sPaginationType": "full_numbers",
     				 "aoColumns": [
         				{ "mDataProp": "public" },
 				        { "mDataProp": "private" }
