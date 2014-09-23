@@ -3,10 +3,15 @@
 }
 
 .logoRow {
-	height: 100px;
 	padding: 20px;
 	border-bottom: 1px solid #CAC8CB;
 } 
+
+.logoImg {
+	background: url("../assets/logo.jpg") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 88px;
+    width: 258px;
+}
 
 .chartRow {
 	border-bottom: 1px solid #CAC8CB;
