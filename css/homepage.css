@@ -43,3 +43,20 @@
 .toDatepickerHolder {
 	padding: 0px 20px;
 }
+
+/* Style Customization for Table Comes here */
+.tableRow .dataTables_wrapper {
+	background-color: #D1D1D1;
+}
+
+.tableRow .dataTables_length, .tableRow .dataTables_filter {
+	margin: 5px;
+} 
+
+.tableRow .dataTables_info {
+	margin-left: 5px;
+}
+
+.tableRow thead {
+	background-color: #C2C2C2;
+} 
