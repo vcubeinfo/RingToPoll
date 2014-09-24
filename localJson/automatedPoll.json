@@ -1,147 +1,150 @@
 {
     "data": {
-            "name": "Q1: Best Hospital in Banglore",
-            "data": [
-                {
-                    "name": "GOV",
-                    "y": 89,
-					"showValue": 89000,
-					"color": "#3269AC"
-                },{
-                    "name": "Private",
-                    "y": 11,
-					"showValue": 11000,
-					"color": "#B73832"
-                }
-            ],
-			"gridData": {
-    				 "sPaginationType": "full_numbers",
-    				 "columns": [
-        				{ "title": "Voted For Public Hospital", "data": "public", "name": "public", "sortable": false },
-				        { "title": "Voted For Private Hospital", "data": "private", "name": "private", "sortable": false }
-				      ],	
-					  "data": [
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    },
-					    {
-					      "public": "123456",
-					      "private": "987654"
-					    }
-					] 
-				}
-        }
+        "pollQMeta": {
+            "pollQIndex": 0,
+            "pollLegendColors": [
+                "#3269AC",
+                "#B73832",
+                "#C73832",
+                "#D73832"
+            ]
+        },
+        "pollQData": [
+            {
+                "pollQ": "Best Hospital in Banglore",
+                "pollResCount": 15,
+                "pollQData": [
+                    {
+                        "pollQKey": "Gov",
+                        "pollQTitle": "Voted For Public Hospital",
+                        "pollOptResCount": 10,
+                        "pollResData": [
+                            "9030730206",
+                            "9030730207",
+                            "9030730208",
+                            "9030730209",
+                            "9030730210",
+                            "9030730211",
+                            "9030730212",
+                            "9030730213",
+                            "9030730214",
+                            "9030730215"
+                            
+                        ]
+                    },
+                    {
+                        "pollQKey": "Private",
+                        "pollQTitle": "Voted For Private Hospital",
+                        "pollOptResCount": 5,
+                        "pollResData": [
+                            "8030730206",
+                            "8030730207",
+                            "8030730208",
+                            "8030730209",
+                            "8030730210"
+                        ]
+                    }
+                ]
+            },
+            {
+                "pollQ": "Best Cricketer of all time",
+                "pollResCount": 17,
+                "pollQData": [
+                    {
+                        "pollQKey": "Sachin",
+                        "pollQTitle": "Voted For Sachin",
+                        "pollOptResCount": 7,
+                        "pollResData": [
+                            "9030730206",
+                            "9030730207",
+                            "9030730208",
+                            "9030730209",
+                            "9030730210",
+                            "9030730211",
+                            "9030730212"
+                            
+                        ]
+                    },
+                    {
+                        "pollQKey": "Lara",
+                        "pollQTitle": "Voted For Lara",
+                        "pollOptResCount": 5,
+                        "pollResData": [
+                            "8030730206",
+                            "8030730207",
+                            "8030730208",
+                            "8030730209",
+                            "8030730210"
+                        ]
+                    },
+                    {
+                        "pollQKey": "Ponting",
+                        "pollOptResCount": 5,
+                        "pollQTitle": "Voted For Ponting",
+                        "pollResData": [
+                            "7030730206",
+                            "7030730207",
+                            "7030730208",
+                            "7030730209",
+                            "7030730210"
+                        ]
+                    }
+                ]
+            },
+            {
+                "pollQ": "Best Countries for great standard of living",
+                "pollResCount": 20,
+                "pollQData": [
+                    {
+                        "pollQKey": "Germany",
+                        "pollOptResCount": 5,
+                        "pollQTitle": "Voted For Germany",
+                        "pollResData": [
+                            "9030730206",
+                            "9030730207",
+                            "9030730208",
+                            "9030730209",
+                            "9030730210"
+                        ]
+                    },
+                    {
+                        "pollQKey": "Denmark",
+                        "pollOptResCount": 5,
+                        "pollQTitle": "Voted For Denmark",
+                        "pollResData": [
+                            "8030730206",
+                            "8030730207",
+                            "8030730208",
+                            "8030730209",
+                            "8030730210"
+                        ]
+                    },
+                    {
+                        "pollQKey": "Switzerland",
+                        "pollOptResCount": 5,
+                        "pollQTitle": "Voted For Switzerland",
+                        "pollResData": [
+                            "7030730206",
+                            "7030730207",
+                            "7030730208",
+                            "7030730209",
+                            "7030730210"
+                        ]
+                    },
+                    {
+                        "pollQKey": "Finland",
+                        "pollOptResCount": 5,
+                        "pollQTitle": "Voted For Finland",
+                        "pollResData": [
+                            "6030730206",
+                            "6030730207",
+                            "6030730208",
+                            "6030730209",
+                            "6030730210"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
 }
